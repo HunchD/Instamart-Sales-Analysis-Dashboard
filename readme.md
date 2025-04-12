@@ -70,19 +70,6 @@ The dashboard includes a variety of charts to uncover trends and patterns, as ou
 - **Interactivity**: Incorporated **slicers** and **filters** for dynamic exploration of data by outlet, item type, fat content, and more.
 - **Visual Design**: Followed best practices for intuitive layouts, clear color schemes, and user-friendly navigation.
 
-## 📂 Repository Structure
-
-```plaintext
-├── dashboards/
-│   └── Instamart_Sales_Dashboard.pbix  # Power BI dashboard file
-├── data/
-│   └── Instamart_Grocery_Data.xlsx     # dataset
-├── images/
-│   └── dashboard-screenshot.png        # Screenshot of the dashboard
-├── README.md                           # This file
-└── .gitignore                          # Git ignore file
-```
-
 ## 🔍 Insights Uncovered
 The dashboard reveals critical insights, such as:
 - **Top Performers**: Snack Foods and Dairy lead in Total Sales, with Low Fat options driving higher Average Ratings.
