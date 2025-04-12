@@ -4,6 +4,14 @@ Welcome to the **Instamart Sales Analysis Dashboard** repository! This project l
 
 ![Dashboard Preview](images/dashboard-screenshot.png)
 
+## 🔗 Dashboard Link
+
+Access the interactive **Instamart Sales Analysis Dashboard** directly from the repository:
+
+- [Instamart_Sales_Dashboard.pbix](dashboards/Instamart_Sales_Dashboard.pbix)
+
+Download the `.pbix` file and open it in **Microsoft Power BI Desktop** to explore the visualizations and KPIs. Ensure you have the dataset (`Instamart_Grocery_Data.xlsx`) or your own compatible data source connected for full functionality.
+
 ## 📖 Project Overview
 
 The **Instamart Sales Analysis Dashboard** is a comprehensive business intelligence solution built to analyze sales data, evaluate customer feedback, and optimize inventory strategies for Instamart, a grocery retail platform. By integrating advanced data processing and visualization techniques, this project transforms raw data into actionable insights to support data-driven decision-making.
@@ -60,7 +68,7 @@ The dashboard includes a variety of charts to uncover trends and patterns, as ou
 - **Data Processing**: Utilized **Power Query** for data cleaning and transformation, ensuring high-quality input from the Instamart Grocery Data dataset.
 - **Calculations**: Employed **DAX (Data Analysis Expressions)** to compute KPIs like Total Sales, Average Sales, and Average Rating.
 - **Interactivity**: Incorporated **slicers** and **filters** for dynamic exploration of data by outlet, item type, fat content, and more.
-- **Visual Design**: Followed best practices for intuitive layouts, clear color schemes, and user-friendly navigation, inspired by resources like *Storytelling with Data*.
+- **Visual Design**: Followed best practices for intuitive layouts, clear color schemes, and user-friendly navigation.
 
 ## 📂 Repository Structure
 
@@ -88,3 +96,5 @@ The dashboard reveals critical insights, such as:
 - **Improve Data Quality**: Address missing weight data to refine forecasting and pricing
 - **Tailor Promotions**: Promote mid-weight (10–20g) Snack Foods and Dairy year-round.
 
+### Closing Thoughts
+This analysis of Instamart's grocery data has illuminated key opportunities to enhance sales, streamline inventory, and improve customer satisfaction. By leveraging these insights, Instamart can strengthen its market position through targeted strategies and data-driven decisions. Future iterations could explore real-time data integration or predictive analytics to further refine operations and drive growth.
